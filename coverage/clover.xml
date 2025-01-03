@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1735907484443" clover="3.2.0">
-  <project timestamp="1735907484443" name="All files">
+<coverage generated="1735908623962" clover="3.2.0">
+  <project timestamp="1735908623962" name="All files">
     <metrics statements="39" coveredstatements="34" conditionals="11" coveredconditionals="9" methods="9" coveredmethods="8" elements="59" coveredelements="51" complexity="0" loc="39" ncloc="39" packages="1" files="1" classes="1"/>
     <file name="character.js" path="C:\Users\ZUM\Desktop\Учеба\Homework\character-game\src\character.js">
       <metrics statements="39" coveredstatements="34" conditionals="11" coveredconditionals="9" methods="9" coveredmethods="8"/>
