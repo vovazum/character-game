@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1735907484443" clover="3.2.0">
+  <project timestamp="1735907484443" name="All files">
+    <metrics statements="39" coveredstatements="34" conditionals="11" coveredconditionals="9" methods="9" coveredmethods="8" elements="59" coveredelements="51" complexity="0" loc="39" ncloc="39" packages="1" files="1" classes="1"/>
+    <file name="character.js" path="C:\Users\ZUM\Desktop\Учеба\Homework\character-game\src\character.js">
+      <metrics statements="39" coveredstatements="34" conditionals="11" coveredconditionals="9" methods="9" coveredmethods="8"/>
+      <line num="4" count="7" type="stmt"/>
+      <line num="6" count="7" type="cond" truecount="4" falsecount="1"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="10" count="7" type="cond" truecount="1" falsecount="1"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="14" count="7" type="stmt"/>
+      <line num="15" count="7" type="stmt"/>
+      <line num="16" count="7" type="stmt"/>
+      <line num="17" count="7" type="stmt"/>
+      <line num="18" count="7" type="stmt"/>
+      <line num="19" count="7" type="stmt"/>
+      <line num="23" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="34" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="44" count="2" type="stmt"/>
+      <line num="45" count="2" type="stmt"/>
+      <line num="46" count="2" type="stmt"/>
+      <line num="52" count="2" type="stmt"/>
+      <line num="53" count="2" type="stmt"/>
+      <line num="54" count="2" type="stmt"/>
+      <line num="60" count="1" type="stmt"/>
+      <line num="61" count="1" type="stmt"/>
+      <line num="62" count="1" type="stmt"/>
+      <line num="68" count="1" type="stmt"/>
+      <line num="69" count="1" type="stmt"/>
+      <line num="70" count="1" type="stmt"/>
+      <line num="76" count="0" type="stmt"/>
+      <line num="77" count="0" type="stmt"/>
+      <line num="78" count="0" type="stmt"/>
+      <line num="84" count="1" type="stmt"/>
+      <line num="85" count="1" type="stmt"/>
+      <line num="86" count="1" type="stmt"/>
+      <line num="91" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
